@@ -1,8 +1,8 @@
 Functionality:
 
 - Detects Offline UNVR Devices (Outdated):** The code used to periodically check your UniFi dashboard for offline UNVR devices using Selenium. However, due to website changes, this functionality no longer works reliably.
-- Sends Alerts to Microsoft Teams (Outdated):** When it identified offline devices (which it can't do anymore), the code would send notifications to a specified Teams chat using Selenium and web automation.
-- Schedules Alerts (Outdated):** It used to alert you at 6 AM daily with a device status update and send additional alerts during operating hours (6 AM to 8 PM) for device offline/online events.
+- Sends Alerts to Microsoft Teams : When it identified offline devices , the code would send notifications to a specified Teams chat using Selenium and web automation.
+- Schedules Alerts:** It is used to alert you at 6 AM daily with a device status update and send additional alerts during operating hours (6 AM to 8 PM) for device offline/online events.
 
 Key Limitations:
 
